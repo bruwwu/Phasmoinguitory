@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - WallDestruible
+  - Llave1
   layers:
   - Default
   - TransparentFX
